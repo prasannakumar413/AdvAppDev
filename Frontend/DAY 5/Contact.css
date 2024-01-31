@@ -1,0 +1,31 @@
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .image-container {
+    flex: 1;
+  }
+  
+  .text-container {
+    flex: 1;
+    padding: 0 20px;
+  }
+  
+  .contact-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .text-container h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .text-container p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  

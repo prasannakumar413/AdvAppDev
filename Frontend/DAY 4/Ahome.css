@@ -1,0 +1,44 @@
+/* Container styling */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Heading styling */
+  .heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Responsive app bar container */
+  .responsive-appbar {
+    margin-bottom: 20px;
+  }
+  
+  /* Content section */
+  .content {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Text styling */
+  .text {
+    font-size: 18px;
+    color: #e04040;
+  }
+  
+  body {
+    background: linear-gradient(to bottom right, #ffcccc, #99ccff);
+    background-size: cover;
+    background-position: center;
+    background-position: 100%;
+  }
+
+  h2{
+    color: #e04040;
+  }
