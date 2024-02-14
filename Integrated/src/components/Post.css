@@ -1,0 +1,116 @@
+
+.sign-form {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.sign-label {
+  font-weight: bold;
+  margin-bottom: 10px;
+  display: block;
+}
+
+
+.sign-input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size: 16px;
+  transition: border-color 0.3s ease;
+
+}
+
+.sign-input:focus {
+  outline: none;
+  border-color: #4caf50;
+}
+
+
+.login-button, .back5 {
+  width: 100%;
+  padding: 12px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+  align-items: center;
+}
+
+.login-button:hover, .back5:hover {
+  background-color: #45a049;
+}
+
+/* Additional styling for the back button */
+.back5 {
+  background-color: #f44336;
+}
+
+.back5:hover {
+  background-color: #d32f2f;
+}
+
+/* Submit button */
+.login-button, .back5 {
+  width: 50%; /* Adjust width to desired size */
+  padding: 10px; /* Adjust padding for medium size */
+  margin: 5px; /* Add margin for space between buttons */
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px; /* Adjust font size for medium size */
+  transition: background-color 0.3s ease;
+  align-items: center;
+}
+
+.login-button:hover, .back5:hover {
+  background-color: #45a049;
+}
+
+/* Additional styling for the back button */
+.back5 {
+  background-color: #f44336;
+}
+
+.back5:hover {
+  background-color: #d32f2f;
+}
+/* Submit button */
+.login-button, .back5 {
+  width: 100%; /* Set width to 100% to occupy full width of the form */
+  padding: 10px; /* Adjust padding for medium size */
+  margin: 5px; /* Add margin for space between buttons */
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px; /* Adjust font size for medium size */
+  transition: background-color 0.3s ease;
+}
+
+.login-button:hover, .back5:hover {
+  background-color: #45a049;
+}
+
+/* Additional styling for the back button */
+.back5 {
+  background-color: #f44336;
+}
+
+.back5:hover {
+  background-color: #d32f2f;
+}
